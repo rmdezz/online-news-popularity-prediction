@@ -1,6 +1,6 @@
 # Predicción de Popularidad de Noticias Online con Machine Learning 🚀
 
-Este repositorio contiene el código y la documentación para un proyecto del curso **Aprendizaje de Máquina (1INF02)**, enfocado en predecir la popularidad de artículos de noticias online utilizando técnicas de aprendizaje automático.
+Este repositorio contiene el código y la documentación para un proyecto del curso **Aprendizaje de Máquina (1INF02)** de la Pontificia Universidad Católica del Perú (PUCP), enfocado en predecir la popularidad de artículos de noticias online utilizando técnicas de aprendizaje automático.
 
 ## 📝 Descripción del Proyecto
 
