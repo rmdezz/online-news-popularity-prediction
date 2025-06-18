@@ -1,0 +1,22 @@
+# --- Core Data Science Stack ---
+pandas
+numpy
+scikit-learn>=1.3  # Se especifica una versión mínima por si se usan funcionalidades recientes
+matplotlib
+seaborn
+
+# --- Gradient Boosting Libraries ---
+xgboost>=2.0 # Se especifica versión 2.0+ por el uso del parámetro 'device'
+lightgbm
+
+# --- Jupyter Environment ---
+jupyter
+notebook
+ipykernel
+
+# --- GPU Accelerated Libraries (Requieren Instalación Especial) ---
+# NOTA: La instalación de RAPIDS cuML debe realizarse en un entorno con GPU
+# y siguiendo las guías oficiales de RAPIDS.
+# Ver el README.md para más detalles sobre la instalación en Google Colab.
+# Ejemplo de instalación en Colab (no usar en pip install -r):
+# !pip install cuml-cu12 --extra-index-url=https://pypi.nvidia.com
